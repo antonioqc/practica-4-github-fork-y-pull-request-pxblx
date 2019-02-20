@@ -1,6 +1,6 @@
-/**
+﻿/**
  * Ejercicio 6 de POO
- *
+ *MODIFICACION DEL EJERCICIO
  * Crea la clase Tiempo con los métodos suma y resta. Los objetos de la clase Tiempo son intervalos de tiempo y se
  * crean de la forma Tiempo t = new Tiempo(1, 20, 30) donde los parámetros que se le pasan al constructor son las
  * horas, los minutos y los segundos respectivamente. Crea el método toString para ver los intervalos de tiempo de la
